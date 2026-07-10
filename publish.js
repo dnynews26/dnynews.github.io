@@ -12,7 +12,7 @@ var emails = ["dnynews2026@gmail.com"];
 
 var tgChannel = "https://t.me/dnynew2026";
 
-var businessLink = "https://t1t1.com/";
+var businessLink = "https://r6t1y.8kn5u2-t1t1.icu";
 
 var foreverUrls = [
     "https://dnynews.com"
